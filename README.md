@@ -4,4 +4,4 @@ A simple image slideshow: each click on **Next** changes the photo and its capti
 
 **Built with:** HTML, CSS, JavaScript
 
-> Built in 2021 during a school coding course. Kept here as a record of early work; it has not been updated since.
+> Classwork from a school coding course (2021). I wrote most of the HTML, CSS and JavaScript myself.
